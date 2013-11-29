@@ -4,20 +4,22 @@ Parameters Needed:
 1. Current Carrier
 2. ETF needing to be paid
 3. Current cost/month
-4. Smartphone/dumbphone
+4. Smartphone/dumbphone preference
 5. Minutes/month
 6. texts/month
 7. data/month
 8. price of smartphone locked
 9. price of smartphone unlocked
 10. Upgrade every 2 years/ every one year
+11. Customer location
 
 Return
 ================
-1. Carrier
-2. Plan Website
-3. Talk/Text
-4. Amount of Data
-5. Amount of texts
-6. Price/Month
-7. Total Price over 2 years
+1. Phone make/model
+2. Carrier
+3. Plan Website
+4. Talk/Text
+5. Amount of Data
+6. Amount of texts
+7. Price/Month
+8. Total Price over 2 years
